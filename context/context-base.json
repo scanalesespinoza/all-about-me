@@ -1,60 +1,123 @@
 {
-  "name": "Sergio Sebastián Canales Espinoza",
-  "role": "Principal Architect",
-  "affiliations": [
-    "Red Hat",
-    "CNCF Ambassador",
-    "Platform Engineering Ambassador"
-  ],
-  "location": "Latin America",
-  "languages": [
-    "Spanish (native)",
-    "English (fluent)",
-    "Portuguese (intermediate)",
-    "Japanese (basic)"
-  ],
-  "pillars": {
-    "cloud_native": "Kubernetes, OpenShift, GitOps, resilient distributed architectures",
-    "platform_engineering": "IDP design, developer experience, automation, and operating models",
-    "ai_augmented_development": "Copilot-driven workflows, LLM-enabled delivery acceleration",
-    "continuous_improvement": "Lean feedback loops, metrics-driven coaching, pragmatic governance",
-    "technical_leadership": "Architectural strategy, cross-functional alignment, mentorship",
-    "community_building": "Open collaboration, talks, workshops, and community leadership"
+  "version": "0.1.0",
+  "owner": {
+    "full_name": "Sergio Sebastián Canales Espinoza",
+    "preferred_name": "Sergio",
+    "location": "Santiago, Chile",
+    "current_role": "Principal Architect at Red Hat",
+    "ambassador_roles": [
+      "CNCF Ambassador (since 2024)",
+      "Platform Engineering Ambassador (since 2024)"
+    ],
+    "languages": {
+      "spanish": "native",
+      "english": "fluent",
+      "portuguese": "intermediate",
+      "japanese": "basic"
+    }
   },
-  "strengths": [
-    "Bridging strategy and delivery to achieve measurable outcomes",
-    "Designing human-centered platforms that empower developers",
-    "Mentoring teams toward sustainable DevEx and modern engineering practices"
-  ],
-  "keywords": [
-    "Cloud Native",
-    "Platform Engineering",
-    "AI-Augmented Development",
-    "GitOps",
-    "Kubernetes",
-    "Developer Experience",
-    "Continuous Improvement",
-    "Open Source",
-    "DevOps",
-    "Architecture"
-  ],
-  "resources": {
-    "bios": {
-      "short": "biography/bio-short.md",
-      "full": "biography/bio-full.md",
-      "identity": "biography/identity.md"
-    },
-    "roadmap": "README.md",
-    "structure": [
-      "biography/",
-      "career/",
-      "projects/",
-      "community/",
-      "skills/",
-      "philosophy/",
-      "interests/",
-      "speaking/",
-      "context/"
+  "professional_identity": {
+    "headline": [
+      "Principal Architect",
+      "Cloud Native & Platform Engineering Architect",
+      "Enterprise Architect",
+      "Community Builder and Speaker"
+    ],
+    "core_themes": [
+      "Cloud Native",
+      "Platform Engineering",
+      "Developer Experience (DevEx)",
+      "Enterprise Architecture",
+      "AI-augmented development",
+      "Continuous improvement",
+      "Open source and community leadership"
+    ],
+    "philosophy": {
+      "technology": [
+        "Technology must empower people and deliver real value to end users.",
+        "Architecture is a means to enable teams and organizations, not an end in itself.",
+        "Continuous improvement is more realistic and honest than the idea of 'transformation'."
+      ],
+      "leadership": [
+        "Focus on growing people and teams so systems and applications can evolve sustainably.",
+        "Promote autonomy, mastery, and collaboration in engineering teams.",
+        "Balance strategic thinking with hands-on support and mentoring."
+      ]
+    }
+  },
+  "experience_summary": {
+    "years_experience": 12,
+    "domains": [
+      "Cloud Native Architecture",
+      "Platform Engineering",
+      "DevOps and GitOps",
+      "Internal Developer Platforms (IDP)",
+      "Enterprise Architecture and Governance",
+      "AI-assisted software development"
+    ],
+    "highlights": [
+      "Delivered production-ready MVPs in 2 weeks using AI copilots and cloud-native stacks.",
+      "Led modernization and platform initiatives for enterprise and financial services clients.",
+      "Consistently achieved NPS 9–10 in delivery engagements.",
+      "Organized and contributed to DevOpsDays Santiago and Open Source Santiago."
+    ]
+  },
+  "skills_high_level": {
+    "technical": [
+      "Kubernetes",
+      "Red Hat OpenShift",
+      "Cloud Native architectures",
+      "Internal Developer Platforms",
+      "GitOps & CI/CD",
+      "Java & Quarkus",
+      "Python",
+      "DevOps and SRE practices",
+      "AI-assisted development (ChatGPT Codex, agentic coding)"
+    ],
+    "non_technical": [
+      "Technical leadership",
+      "Architecture coaching",
+      "Mentoring and team development",
+      "Community building",
+      "Public speaking",
+      "Stakeholder communication",
+      "Presales and value articulation"
+    ]
+  },
+  "personality_and_style": {
+    "traits": [
+      "Logical",
+      "Calm",
+      "Respectful",
+      "Self-critical",
+      "Demanding with quality",
+      "Collaborative",
+      "Curious"
+    ],
+    "communication": [
+      "Clear, structured, and non-dogmatic.",
+      "Avoids absolutist statements; prefers to narrate context and let others think freely.",
+      "Focuses on facts, impact, and learning rather than ego or blame."
+    ],
+    "values": [
+      "Excellence",
+      "Integrity",
+      "Collaboration",
+      "Continuous learning",
+      "Community impact"
+    ]
+  },
+  "usage_guidelines_for_llm": {
+    "primary_language": "Spanish for interaction, English for technical content and CVs when needed.",
+    "tone": [
+      "Professional but approachable.",
+      "No hype, no empty buzzwords.",
+      "Honest about limitations and trade-offs."
+    ],
+    "priorities": [
+      "Align answers with Sergio's real experience and principles.",
+      "Prefer human-centered, sustainable solutions over purely technical cleverness.",
+      "Emphasize continuous improvement instead of 'big bang transformations'."
     ]
   }
 }
