@@ -1,0 +1,83 @@
+{
+  "version": "0.1.0",
+  "categories": {
+    "cloud_native_and_platform_engineering": {
+      "label": "Cloud Native & Platform Engineering",
+      "skills": [
+        { "name": "Kubernetes", "level": "expert" },
+        { "name": "Red Hat OpenShift", "level": "expert" },
+        { "name": "Cloud Native Architecture", "level": "expert" },
+        { "name": "Internal Developer Platforms (IDP)", "level": "expert" },
+        { "name": "GitOps", "level": "advanced" },
+        { "name": "Developer Experience (DevEx)", "level": "advanced" }
+      ]
+    },
+    "architecture_and_software_engineering": {
+      "label": "Architecture & Software Engineering",
+      "skills": [
+        { "name": "Microservices Architecture", "level": "expert" },
+        { "name": "Distributed Systems Design", "level": "advanced" },
+        { "name": "API Design & Integration", "level": "advanced" },
+        { "name": "Resilience Patterns", "level": "advanced" },
+        { "name": "Enterprise Architecture (TOGAF, COBIT, ITIL foundations)", "level": "advanced" }
+      ]
+    },
+    "devops_gitops_and_continuous_delivery": {
+      "label": "DevOps, GitOps & Continuous Delivery",
+      "skills": [
+        { "name": "CI/CD Pipeline Design", "level": "advanced" },
+        { "name": "Infrastructure as Code", "level": "advanced" },
+        { "name": "DevSecOps / Shift-left", "level": "advanced" },
+        { "name": "Automation & Scripting", "level": "advanced" }
+      ]
+    },
+    "ai_augmented_development": {
+      "label": "AI-Augmented Development & Automation",
+      "skills": [
+        { "name": "AI-assisted Coding (LLM Copilots)", "level": "advanced" },
+        { "name": "Agentic Development Workflows", "level": "advanced" },
+        { "name": "Rapid MVP Delivery with AI", "level": "advanced" }
+      ]
+    },
+    "languages_and_frameworks": {
+      "label": "Languages & Frameworks",
+      "skills": [
+        { "name": "Java", "level": "advanced" },
+        { "name": "Quarkus", "level": "advanced" },
+        { "name": "Python", "level": "advanced" },
+        { "name": "Bash / Shell scripting", "level": "advanced" }
+      ]
+    },
+    "observability_and_operations": {
+      "label": "Observability, Reliability & Operations",
+      "skills": [
+        { "name": "Metrics / Logs / Traces Design", "level": "advanced" },
+        { "name": "Operational Readiness", "level": "advanced" },
+        { "name": "Reliability-minded Architecture", "level": "advanced" }
+      ]
+    },
+    "security_and_compliance": {
+      "label": "Security & Compliance (Cloud Native Context)",
+      "skills": [
+        { "name": "Secure SDLC Principles", "level": "intermediate" },
+        { "name": "Security in CI/CD Pipelines", "level": "intermediate" },
+        { "name": "Compliance-aware Architecture", "level": "intermediate" }
+      ]
+    },
+    "leadership_and_communication": {
+      "label": "Leadership & Communication",
+      "skills": [
+        { "name": "Technical Leadership & Mentoring", "level": "expert" },
+        { "name": "Stakeholder Communication (C-level to teams)", "level": "advanced" },
+        { "name": "Community Building & Advocacy", "level": "advanced" },
+        { "name": "Public Speaking", "level": "advanced" },
+        { "name": "Presales & Value Articulation", "level": "advanced" },
+        { "name": "Continuous Improvement Strategy", "level": "advanced" }
+      ]
+    }
+  },
+  "metadata": {
+    "primary_languages_for_work": ["Spanish", "English"],
+    "note": "This matrix is intended as a machine-readable summary of Sergio's skills to be used by LLMs and tooling for context-aware generation."
+  }
+}
