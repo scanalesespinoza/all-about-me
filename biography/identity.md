@@ -1,21 +1,54 @@
-# Professional Identity
+# Identity — Sergio Sebastián Canales Espinoza
 
-## Who I Am
-- **Name:** Sergio Sebastián Canales Espinoza
-- **Role:** Principal Architect, Enterprise Technology Strategist, Community Builder
-- **Location:** Latin America (regional focus)
-- **Languages:** Spanish (native), English (fluent), Portuguese (intermediate), Japanese (basic)
+## Professional Identity
 
-## Core Narrative
-I design and lead human-centered platforms that turn strategy into measurable delivery. My work blends architecture rigor with developer empowerment: building Internal Developer Platforms, scaling GitOps and DevSecOps adoption, and using AI-augmented development to accelerate time-to-value. I mentor teams to align technology decisions with business outcomes while cultivating resilient, open communities.
+I am a Principal Architect, CNCF Ambassador, and Platform Engineering Ambassador with over 12 years of experience leading Cloud Native and Platform Engineering initiatives across Latin America. 
 
-## Pillars
-- **Cloud Native:** Kubernetes, OpenShift, GitOps, and resilient distributed architectures.
-- **Platform Engineering:** IDP design, DevEx, automation, and operating models that sustain autonomy.
-- **AI-Augmented Development:** Copilot-driven workflows that shorten cycles and improve quality.
-- **Continuous Improvement:** Lean feedback loops, metrics-driven coaching, and pragmatic governance.
-- **Technical Leadership:** Architectural strategy, cross-functional alignment, and mentorship.
-- **Community Building:** CNCF & Platform Engineering Ambassador, organizer, and open-source advocate.
+My work focuses on designing human-centered platforms, enabling developer excellence, and helping organizations achieve meaningful progress through continuous improvement and AI-augmented development.
 
-## Style & Principles
-Calm, structured, and data-driven; values excellence, empathy, and transparency. I favor sustainable progress over flashy transformations, enabling teams through clarity, coaching, and hands-on partnership.
+I combine strategic thinking with hands-on architectural depth, always prioritizing outcomes, clarity, sustainability, and the growth of individuals and teams.
+
+---
+
+## Core Themes
+
+- **Cloud Native Architecture**
+- **Platform Engineering & Developer Experience**
+- **AI-Augmented Development (Agentic workflows, copilots, acceleration)**
+- **Enterprise Architecture & Governance**
+- **Continuous Improvement (not “transformation”)**
+- **Technical Leadership & Mentorship**
+- **Open Source & Community Building**
+
+---
+
+## Work Philosophy
+
+### Technology
+- Technology must **empower people** and **deliver real value** to users and organizations.
+- Architecture is a tool for clarity, autonomy, and reliability—not complexity.
+- Continuous improvement is more realistic, sustainable, and respectful than “transformation”.
+
+### Leadership
+- Focus on **growing people** so systems and organizations can grow sustainably.
+- Enable teams to achieve **mastery, autonomy, and collaboration**.
+- Communicate with clarity, humility, and purpose.
+- Excellence is not a destination but a **standard** and a **discipline**.
+
+### Style
+- Calm, logical, reflective, respectful.
+- No absolutist claims, no ego-driven statements.
+- Narratives based on facts, context, and impact.
+- I create space for people to think freely and draw their own conclusions.
+
+---
+
+## Identity Summary
+
+I architect solutions that enable sustainable growth.  
+I empower teams so they can build better systems.  
+I build communities because knowledge only matters when shared.  
+I help shape organizations that want to evolve, not transform.  
+I use AI to accelerate capability, not to replace human judgment.  
+
+This is who I am as a professional, leader, and contributor to the Cloud Native ecosystem.
