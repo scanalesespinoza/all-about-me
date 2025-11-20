@@ -1,0 +1,60 @@
+{
+  "name": "Sergio Sebastián Canales Espinoza",
+  "role": "Principal Architect",
+  "affiliations": [
+    "Red Hat",
+    "CNCF Ambassador",
+    "Platform Engineering Ambassador"
+  ],
+  "location": "Latin America",
+  "languages": [
+    "Spanish (native)",
+    "English (fluent)",
+    "Portuguese (intermediate)",
+    "Japanese (basic)"
+  ],
+  "pillars": {
+    "cloud_native": "Kubernetes, OpenShift, GitOps, resilient distributed architectures",
+    "platform_engineering": "IDP design, developer experience, automation, and operating models",
+    "ai_augmented_development": "Copilot-driven workflows, LLM-enabled delivery acceleration",
+    "continuous_improvement": "Lean feedback loops, metrics-driven coaching, pragmatic governance",
+    "technical_leadership": "Architectural strategy, cross-functional alignment, mentorship",
+    "community_building": "Open collaboration, talks, workshops, and community leadership"
+  },
+  "strengths": [
+    "Bridging strategy and delivery to achieve measurable outcomes",
+    "Designing human-centered platforms that empower developers",
+    "Mentoring teams toward sustainable DevEx and modern engineering practices"
+  ],
+  "keywords": [
+    "Cloud Native",
+    "Platform Engineering",
+    "AI-Augmented Development",
+    "GitOps",
+    "Kubernetes",
+    "Developer Experience",
+    "Continuous Improvement",
+    "Open Source",
+    "DevOps",
+    "Architecture"
+  ],
+  "resources": {
+    "bios": {
+      "short": "biography/bio-short.md",
+      "full": "biography/bio-full.md",
+      "identity": "biography/identity.md"
+    },
+    "roadmap": "README.md",
+    "structure": [
+      "biography/",
+      "career/",
+      "projects/",
+      "community/",
+      "skills/",
+      "philosophy/",
+      "interests/",
+      "speaking/",
+      "context/"
+    ]
+  }
+}

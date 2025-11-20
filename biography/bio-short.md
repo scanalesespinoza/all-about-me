@@ -1,0 +1,3 @@
+# Bio — Short Version
+
+Sergio Sebastián Canales Espinoza is a Principal Architect at Red Hat with 12+ years guiding cloud-native, platform engineering, and enterprise architecture across LATAM. He bridges strategy and delivery to ship production-ready results quickly, combining Kubernetes, GitOps, and AI-augmented development. Recognized since 2024 as both a CNCF and Platform Engineering Ambassador, he mentors teams to build human-centered platforms and sustainable DevEx. His style is calm, structured, and data-driven, aiming for tangible impact through open collaboration and continuous improvement.
