@@ -4,7 +4,7 @@
     "full_name": "Sergio Sebastián Canales Espinoza",
     "preferred_name": "Sergio",
     "location": "Santiago, Chile",
-    "current_role": "Associate Principal Architect at Red Hat",
+    "current_role": "Associate Principal Architect at Red Hat.",
     "ambassador_roles": [
       "CNCF Ambassador (since 2024)",
       "Platform Engineering Ambassador (since 2024)"
@@ -46,7 +46,7 @@
     }
   },
   "experience_summary": {
-    "years_experience": 12,
+    "years_experience": "over 11 years at Red Hat",
     "domains": [
       "Architecture leadership and continuous improvement",
       "Community leadership, mentoring, and developer advocacy",

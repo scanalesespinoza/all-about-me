@@ -2,7 +2,9 @@
 
 ## Professional Identity
 
-I am an Associate Principal Architect at Red Hat and technology leader operating at organization-wide scope, CNCF Ambassador, and Platform Engineering Ambassador (since 2024) with over 12 years of experience leading Cloud Native and Platform Engineering initiatives across Latin America. I am a strong candidate for Head-of-Technology-level responsibilities as the next step in my trajectory. Principal Architect and technology leader focused on turning constant technological change into a strategic advantage for organizations.
+Principal Architect and technology leader focused on turning constant technological change into a strategic advantage for organizations.
+
+I am an Associate Principal Architect at Red Hat and technology leader operating at organization-wide scope, CNCF Ambassador, and Platform Engineering Ambassador (since 2024) with over 11 years of experience leading Cloud Native and Platform Engineering initiatives across Latin America. I operate at organizational scope, aligning architecture, delivery, and technology decisions with organizational priorities.
 
 My distinctive strength is turning constant technological change—and the technical debt that follows—into a controlled, strategic advantage through early, sustainable adoption of new technologies.
 
