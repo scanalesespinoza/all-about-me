@@ -2,9 +2,11 @@
 
 ## Professional Identity
 
-I am a Principal Architect, CNCF Ambassador, and Platform Engineering Ambassador with over 12 years of experience leading Cloud Native and Platform Engineering initiatives across Latin America. 
+I am a Principal Architect and technology leader operating at organization-wide scope, CNCF Ambassador, and Platform Engineering Ambassador (since 2024) with over 12 years of experience leading Cloud Native and Platform Engineering initiatives across Latin America. I am a strong candidate for Head-of-Technology-level responsibilities as the next step in my trajectory.
 
-My work focuses on designing human-centered platforms, enabling developer excellence, and helping organizations achieve meaningful progress through continuous improvement and AI-augmented development.
+My distinctive strength is turning constant technological change—and the technical debt that follows—into a controlled, strategic advantage through early, sustainable adoption of new technologies.
+
+I ground this in relationships with developers and communities, treating them as living networks of innovation that keep organizations evolving through continuous improvement and AI-augmented development.
 
 I combine strategic thinking with hands-on architectural depth, always prioritizing outcomes, clarity, sustainability, and the growth of individuals and teams.
 
@@ -45,10 +47,10 @@ I combine strategic thinking with hands-on architectural depth, always prioritiz
 
 ## Identity Summary
 
-I architect solutions that enable sustainable growth.  
-I empower teams so they can build better systems.  
-I build communities because knowledge only matters when shared.  
-I help shape organizations that want to evolve, not transform.  
-I use AI to accelerate capability, not to replace human judgment.  
+I architect solutions that enable sustainable growth.
+I empower teams so they can build better systems.
+I build communities because knowledge only matters when shared.
+I help shape organizations that want to evolve, not transform.
+I use AI to accelerate capability, not to replace human judgment.
 
 This is who I am as a professional, leader, and contributor to the Cloud Native ecosystem.
