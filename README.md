@@ -14,6 +14,8 @@ Its purpose is to provide **high-quality context** for:
 
 I am **Sergio Sebastián Canales Espinoza**, an **Associate Principal Architect at Red Hat** and technology leader with more than 12 years at **Red Hat**, operating at organizational scope and on a trajectory toward Head-of-Technology-level responsibilities. My first lens is **architecture and continuous improvement**—turning constant technological change into strategic advantage, keeping technical debt deliberate, and guiding organizations toward long-term evolution.
 
+scanales.com is my public home for this work: a space to connect with technology enthusiasts through ideas and stories. I share ideas and stories for technology enthusiasts through talks, blog posts, and community events, extending the same mindset I apply to architecture and leadership.
+
 Community comes next: I rely on developers, mentoring, and open source networks as the core fabric that sustains progress. As a **CNCF Ambassador** and **Platform Engineering Ambassador** since **2024**, I help communities grow across Latin America and beyond through organizing, speaking, and hands-on support.
 
 AI-augmented development and **Cloud Native / Platform Engineering** are the toolkits I use to realize these goals: early, sustainable technology adoption, production-ready delivery, and dependable developer experience.

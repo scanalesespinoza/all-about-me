@@ -6,6 +6,8 @@ His work centers on designing scalable, human-centered architectures that empowe
 
 Community and people growth are his next defining axis. Recognized globally since 2024 as both a CNCF Ambassador and Platform Engineering Ambassador, he is the founder of Open Source Santiago, organizer of DevOpsDays Santiago, a frequent speaker, and a mentor to developers across the region. He relies on these networks to sustain progress and elevate LATAM’s role in the global open-source ecosystem.
 
+His public home for these efforts is scanales.com, where he connects with technology enthusiasts through ideas and stories. He shares ideas and stories for technology enthusiasts through talks, blog posts, and community events, reflecting his role as a speaker and organizer across Open Source Santiago, Cloud Native Santiago, DevOpsDays Santiago, and Platform Engineering Community Day.
+
 Sergio is also known for pioneering AI-augmented development within enterprise environments. He has delivered production-ready MVPs in just two weeks using agentic workflows and tools like ChatGPT Codex, Quarkus, and Kubernetes—demonstrating how AI and early technology adoption can accelerate value while preserving excellence and reliability.
 
 Cloud Native and Platform Engineering are his natural environment for execution. He guides organizations in modernizing architectures, implementing Kubernetes and OpenShift platforms, improving delivery practices, and enabling teams to adopt DevOps, GitOps, and developer-centered workflows. His experience spans advisory roles with C-level stakeholders, hands-on architecture, and leading cross-functional teams across LATAM.
