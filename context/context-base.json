@@ -24,13 +24,13 @@
       "Community Builder and Speaker"
     ],
     "core_themes": [
-      "Cloud Native",
-      "Platform Engineering",
+      "Architecture & continuous improvement",
+      "Community & people growth",
+      "AI-augmented development & early tech adoption",
+      "Cloud Native & Platform Engineering",
       "Developer Experience (DevEx)",
       "Enterprise Architecture",
-      "AI-augmented development",
-      "Continuous improvement",
-      "Open source and community leadership"
+      "Open source leadership"
     ],
     "philosophy": {
       "technology": [
@@ -48,12 +48,12 @@
   "experience_summary": {
     "years_experience": 12,
     "domains": [
-      "Cloud Native Architecture",
-      "Platform Engineering",
-      "DevOps and GitOps",
-      "Internal Developer Platforms (IDP)",
-      "Enterprise Architecture and Governance",
-      "AI-assisted software development"
+      "Architecture leadership and continuous improvement",
+      "Community leadership, mentoring, and developer advocacy",
+      "AI-assisted software development and early technology adoption",
+      "Cloud Native Architecture and Platform Engineering",
+      "DevOps, GitOps, and Internal Developer Platforms (IDP)",
+      "Enterprise Architecture and Governance"
     ],
     "highlights": [
       "Delivered production-ready MVPs in 2 weeks using AI copilots and cloud-native stacks.",

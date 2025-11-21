@@ -12,16 +12,18 @@ Its purpose is to provide **high-quality context** for:
 
 ## 👤 Who I Am (High-Level)
 
-I am **Sergio Sebastián Canales Espinoza**, a **Principal Architect and technology leader** with more than 12 years at **Red Hat**, operating at organizational scope and on a trajectory toward Head-of-Technology-level responsibilities. I focus on turning change into strategic advantage through:
+I am **Sergio Sebastián Canales Espinoza**, a **Principal Architect and technology leader** with more than 12 years at **Red Hat**, operating at organizational scope and on a trajectory toward Head-of-Technology-level responsibilities. My first lens is **architecture and continuous improvement**—turning constant technological change into strategic advantage, keeping technical debt deliberate, and guiding organizations toward long-term evolution.
 
+Community comes next: I rely on developers, mentoring, and open source networks as the core fabric that sustains progress. As a **CNCF Ambassador** and **Platform Engineering Ambassador** since **2024**, I help communities grow across Latin America and beyond through organizing, speaking, and hands-on support.
+
+AI-augmented development and **Cloud Native / Platform Engineering** are the toolkits I use to realize these goals: early, sustainable technology adoption, production-ready delivery, and dependable developer experience.
+
+I focus on turning change into strategic advantage through:
+
+- **Architecture & continuous improvement**
+- **Community & people growth**
+- **AI-augmented development & early tech adoption**
 - **Cloud Native & Platform Engineering**
-- **Enterprise Architecture & Developer Experience**
-- **AI-augmented development and continuous improvement**
-- **Open source communities, mentoring, and public speaking**
-
-I lead cloud native and platform initiatives, using early, sustainable technology adoption and managed technical debt to keep organizations evolving. I rely on developers and communities as the core network that powers progress.
-
-Since **2024**, I have been recognized globally as a **CNCF Ambassador** and **Platform Engineering Ambassador**, actively supporting communities in Latin America and beyond.
 
 My core belief:
 > Technology must empower people, improve their capabilities, and deliver real value to the organizations and communities they serve.
