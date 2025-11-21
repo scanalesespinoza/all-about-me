@@ -12,7 +12,7 @@ Its purpose is to provide **high-quality context** for:
 
 ## 👤 Who I Am (High-Level)
 
-I am **Sergio Sebastián Canales Espinoza**, a **Principal Architect and technology leader** with more than 12 years at **Red Hat**, operating at organizational scope and on a trajectory toward Head-of-Technology-level responsibilities. My first lens is **architecture and continuous improvement**—turning constant technological change into strategic advantage, keeping technical debt deliberate, and guiding organizations toward long-term evolution.
+I am **Sergio Sebastián Canales Espinoza**, an **Associate Principal Architect at Red Hat** and technology leader with more than 12 years at **Red Hat**, operating at organizational scope and on a trajectory toward Head-of-Technology-level responsibilities. My first lens is **architecture and continuous improvement**—turning constant technological change into strategic advantage, keeping technical debt deliberate, and guiding organizations toward long-term evolution.
 
 Community comes next: I rely on developers, mentoring, and open source networks as the core fabric that sustains progress. As a **CNCF Ambassador** and **Platform Engineering Ambassador** since **2024**, I help communities grow across Latin America and beyond through organizing, speaking, and hands-on support.
 

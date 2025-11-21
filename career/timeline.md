@@ -80,9 +80,9 @@ Universidad Técnica Federico Santa María (Chile)
 
 ---
 
-## 2023–Present — Principal Architect
+## 2023–Present — Associate Principal Architect
 
-**Role:** Principal Architect — Red Hat  
+**Role:** Associate Principal Architect — Red Hat
 **Region:** LATAM with global collaboration  
 
 **Key Focus:**

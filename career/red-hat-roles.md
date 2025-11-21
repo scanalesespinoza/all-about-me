@@ -1,6 +1,6 @@
 # Red Hat Roles — Sergio Sebastián Canales Espinoza
 
-This document expands on my journey within Red Hat, focusing on responsibilities, impact, and evolution from engineer to Principal Architect.
+This document expands on my journey within Red Hat, focusing on responsibilities, impact, and evolution from engineer to Associate Principal Architect.
 
 ---
 
@@ -61,7 +61,7 @@ This document expands on my journey within Red Hat, focusing on responsibilities
 
 ---
 
-## Principal Architect (2023–Present)
+## Associate Principal Architect (2023–Present)
 
 **Scope:**
 - Leadership in Cloud Native and Platform Engineering for LATAM.
