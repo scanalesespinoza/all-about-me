@@ -1,6 +1,6 @@
 # Full Bio — Sergio Sebastián Canales Espinoza
 
-Sergio Sebastián Canales Espinoza is an Associate Principal Architect at Red Hat with over 12 years of experience leading architecture and continuous improvement initiatives across Latin America. He frames constant technological change as a strategic advantage, keeps technical debt deliberate, and aligns long-term evolution with business value.
+Sergio Sebastián Canales Espinoza is an Associate Principal Architect at Red Hat with over 11 years of experience leading architecture and continuous improvement initiatives across Latin America. He frames constant technological change as a strategic advantage, keeps technical debt deliberate, and aligns long-term evolution with business value.
 
 His work centers on designing scalable, human-centered architectures that empower developers and keep organizations progressing steadily. Sergio believes that real progress comes from continuous improvement—not from forced shifts—and that people growth is what ultimately drives the evolution of systems, platforms, and enterprises.
 
