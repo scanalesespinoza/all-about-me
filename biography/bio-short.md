@@ -1,7 +1,9 @@
 # Short Bio — Sergio Sebastián Canales Espinoza
 
-Sergio Canales is a Principal Architect at Red Hat and technology leader operating at organization-wide scope, a strong candidate for Head-of-Technology-level responsibilities. He is a CNCF Ambassador and Platform Engineering Ambassador with more than 12 years in Cloud Native, Platform Engineering, and Enterprise Architecture.
+Principal Architect and technology leader focused on turning constant technological change into a strategic advantage for organizations.
 
-He focuses on early, sustainable adoption of new technologies, keeping technical debt low and strategic, and using developer and community relationships as the network that powers continuous evolution. His work centers on resilient platforms, developer experience, and AI-augmented delivery across LATAM.
+Sergio Canales operates at organization-wide scope at Red Hat, guiding architecture and continuous improvement so teams evolve with low, deliberate technical debt and a clear link to business value.
 
-He is also a community leader, organizer of Open Source Santiago and DevOpsDays Santiago, and a frequent speaker across the region.
+He is a CNCF Ambassador and Platform Engineering Ambassador, active in LATAM communities, organizing Open Source Santiago and DevOpsDays Santiago, and mentoring developers across the region.
+
+He uses AI-augmented development and Cloud Native / Platform Engineering as enablers to deliver production-ready outcomes and dependable developer experience.
