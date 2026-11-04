@@ -55,4 +55,6 @@ What happened afterwards, and whether I would decide the same way today.
 
 ## Cases
 
-No cases have been recorded yet.
+| Date | Decision | Domain |
+|---|---|---|
+| 2026-09 | [Move to the global services team](2026-09-global-services-role.md) | Career |

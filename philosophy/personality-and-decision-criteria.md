@@ -43,7 +43,8 @@ Given a choice, these are the criteria I would most likely apply.
 | A fully prescribed procedure | Use it as a baseline, then question and redesign it; avoid roles whose main value is following it. |
 | Quality versus speed of creation | Enough quality to be reliable and sustainable; reject quality gates that block experimentation or invention. |
 | Building on an existing solution versus creating one | Create, shape, or reinvent when it opens a new possibility; reuse when it frees time to create elsewhere. |
-| A competitive situation (proposal, bid, benchmark, position) | Compete to win, with a clear view of who wins and who loses. |
+| A competitive situation (proposal, bid, benchmark, position) | Compete, with a clear view of who wins and who loses; competing against the best matters more than the win itself (see priorities). |
+| A chance to measure myself against the best | Take it, even at the cost of title or comfort ([2026 case](../decisions/2026-09-global-services-role.md)). |
 | A hard problem with high adversity | Difficulty makes it more attractive, not less. |
 | How to work | Deep autonomous work on the core idea, relying on others for scale and execution. |
 
@@ -53,18 +54,38 @@ Given a choice, these are the criteria I would most likely apply.
 
 Criteria rarely appear alone. This section defines which one wins when they collide.
 
-### Stated priorities
+### Priority ranking
 
-- **Creativity over quality:** when strict quality would stop creation, creation wins; quality stays at "reliable and sustainable".
-- **New over predictable:** when one option is new and unresolved and the other is clear and predictable, the new option wins.
-- **Adversity is not a cost:** difficulty and adversity I face do not count against an option. Whether this extends to risks carried by the team or customers is not defined; see red lines.
+When criteria collide, the higher priority wins. This ranking was stated by me.
 
-### Not yet defined
+1. **Creating** — inventing and giving shape to things.
+2. **Economic stability and personal life** — tied; they rank together.
+3. **Self-improvement** — surpassing myself and measuring myself against the best.
+4. **Quality**
+5. **Team**
+6. **Winning**
 
-- **Full ranking** among creating or inventing, winning, self-improvement, quality, people and team, economic stability, and personal or family life.
-- **Red lines:** what I would not do even if it guaranteed winning.
+Derived rules, applying the ranking literally:
 
-When a decision depends on an undefined priority or red line, an agent must say so, give the most likely choice with low confidence, and name the missing information. It must not fill the gap with an assumed value.
+- Creativity over quality: when strict quality would stop creation, creation wins; quality stays at "reliable and sustainable".
+- Creating outranks economic stability and personal life; both of those outrank self-improvement, quality, team, and winning.
+- Team outranks winning: an option that wins at the team's expense loses.
+- Winning ranks last as an end in itself. Competition motivates me mainly as a way to measure and improve myself against the best ([2026 case](../decisions/2026-09-global-services-role.md)).
+
+### Stated preferences that are not ranks
+
+- **New over predictable:** when one option is new and unresolved and the other is clear and predictable, the new option wins, unless it conflicts with a ranked priority such as economic stability or personal life.
+- **Adversity is not a cost:** difficulty and adversity I face do not count against an option. Risks carried by the team or customers are governed by the ranking and red lines.
+
+### Red lines
+
+These are absolute. An option that crosses one is discarded, regardless of the ranking.
+
+1. **Never cheat.**
+2. **Never stop being who I am.**
+3. **Never give weight to the opinions of people I do not know or do not respect or admire.** Their approval or criticism is not a valid input to a decision.
+
+When a decision depends on information this section does not cover, an agent must say so, give the most likely choice with low confidence, and name the missing information. It must not fill the gap with an assumed value.
 
 ---
 
@@ -84,10 +105,10 @@ These traits are consistent with observable patterns in my [career timeline](../
 
 Some traits pull against other parts of this profile. Making them explicit helps predict which one wins in a given context.
 
-- **Competition and collaboration:** I describe myself as collaborative and non-dogmatic, and I also like to compete and accept that someone loses. I collaborate to build; I compete to win.
+- **Competition and collaboration:** I describe myself as collaborative and non-dogmatic, and I also like to compete and accept that someone loses. Winning ranks below team in my priorities; I compete mainly to measure myself against the best.
 - **Quality and creativity:** I am demanding with quality, but when quality and creativity collide, I protect the space to create.
 - **Community and solitude:** I build communities and depend on others, while often feeling alone and doing my best thinking on my own.
-- **Competition and credible commitments:** I like to win, and my presales and leadership work is described in terms of realistic, feasible proposals and delivery that matches what was promised ([Leadership skills](../skills/leadership.md)). Which one wins when they collide depends on red lines that are not yet defined.
+- **Competition and credible commitments:** I like to win, and my presales and leadership work is described in terms of realistic, feasible proposals and delivery that matches what was promised ([Leadership skills](../skills/leadership.md)). When they collide, the ranking resolves it: team ranks above winning, and knowingly making a false commitment would be cheating, which is a red line.
 - **Maintenance phases:** once something is solved and stable, my interest drops. Long-running maintenance, standardization, and operational routines are where I need deliberate support or a handoff.
 
 ---

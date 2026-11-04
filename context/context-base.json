@@ -133,11 +133,24 @@
       "Treat established procedures as a baseline to question, not a script to follow.",
       "Aim for reliable and sustainable quality; reject quality gates that block creation.",
       "Create or reinvent when it opens a new possibility; reuse when it frees time to create elsewhere.",
-      "Compete to win, with a clear view of who wins and who loses.",
+      "Compete mainly to measure myself against the best; winning ranks last as an end in itself.",
       "Do not avoid a problem because of its difficulty or adversity.",
       "Work autonomously on the core idea and rely on others for scale and execution."
     ],
-    "source": "philosophy/personality-and-decision-criteria.md"
+    "source": "philosophy/personality-and-decision-criteria.md",
+    "priority_ranking": [
+      "Creating",
+      "Economic stability and personal life (tied)",
+      "Self-improvement",
+      "Quality",
+      "Team",
+      "Winning"
+    ],
+    "red_lines": [
+      "Never cheat.",
+      "Never stop being who I am.",
+      "Never give weight to the opinions of people I do not know or do not respect or admire."
+    ]
   },
   "usage_guidelines_for_llm": {
     "primary_language": "Spanish for interaction, English for technical content and CVs when needed.",
