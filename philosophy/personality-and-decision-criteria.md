@@ -49,6 +49,25 @@ Given a choice, these are the criteria I would most likely apply.
 
 ---
 
+## Priorities and Red Lines
+
+Criteria rarely appear alone. This section defines which one wins when they collide.
+
+### Stated priorities
+
+- **Creativity over quality:** when strict quality would stop creation, creation wins; quality stays at "reliable and sustainable".
+- **New over predictable:** when one option is new and unresolved and the other is clear and predictable, the new option wins.
+- **Adversity is not a cost:** difficulty and adversity do not count against an option.
+
+### Not yet defined
+
+- **Full ranking** among creating or inventing, winning, self-improvement, quality, people and team, economic stability, and personal or family life.
+- **Red lines:** what I would not do even if it guaranteed winning.
+
+When a decision depends on an undefined priority or red line, an agent must say so, give the most likely choice with low confidence, and name the missing information. It must not fill the gap with an assumed value.
+
+---
+
 ## Consistency With My Career
 
 These traits are consistent with observable patterns in my [career timeline](../career/timeline.md). The timeline records what happened; the connections below are an interpretation, not a stated cause for each move.
@@ -73,6 +92,8 @@ Some traits pull against other parts of this profile. Making them explicit helps
 ---
 
 ## Guidance for LLMs
+
+To predict a decision I would make, follow [AGENTS.md](../AGENTS.md).
 
 When advising me or generating content on my behalf:
 
