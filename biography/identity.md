@@ -45,6 +45,8 @@ I combine strategic thinking with hands-on architectural depth, always prioritiz
 - Narratives based on facts, context, and impact.
 - I create space for people to think freely and draw their own conclusions.
 
+For the drivers behind this style—challenge, change, invention, competition—and the decision criteria they imply, see [Personality & Decision Criteria](../philosophy/personality-and-decision-criteria.md).
+
 ---
 
 ## Identity Summary
