@@ -1,102 +1,113 @@
 # Career Timeline — Sergio Sebastián Canales Espinoza
 
-This document summarizes my professional journey in chronological order, highlighting key roles, responsibilities, and milestones.
+This document summarizes my professional journey in chronological order, highlighting key roles, responsibilities, and milestones. It is the canonical source for titles and dates in this repository.
+
+I have worked at Red Hat in two stages: a first stage in 2012–2013 and a continuous stage since November 2014, for more than 12 years in total.
 
 ---
 
-## 2011 — Graduation
+## 2008–2011 — Education
 
-**Técnico Universitario en Informática**  
+**Técnico Universitario en Informática**
 Universidad Técnica Federico Santa María (Chile)
 
-- Foundations in software engineering, software development, and project planning.
-- Early exposure to application development, operating systems, and networking.
+- Software engineering, application development, and project planning.
 
 ---
 
-## 2012–2016 — Early Years at Red Hat (Consulting & App Dev Focus)
+## 2009–2010 — Java EE Developer (Internship)
 
-**Role:** Application Development / Consulting Engineer (various titles evolving toward Senior)  
-**Region:** Latin America  
+**Company:** Sentra Software House Ltda.
 
-- Worked with enterprise customers adopting Red Hat technologies in application development and middleware.
-- Supported projects involving JBoss, integration, and application modernization.
-- Gained hands-on experience with Linux, middleware, and emerging cloud-native patterns.
-- Started building a reputation as a trusted technical advisor for customers and internal teams.
+- Professional internship developing Java EE applications in the software engineering department.
 
 ---
 
-## 2016–2020 — Senior App Dev Architect
+## 2011–2012 — Java Developer
 
-**Role:** Senior App Dev Architect — Red Hat  
-**Region:** LATAM  
+**Company:** Tata Consultancy Services — Santiago, Chile
 
-**Key Focus:**
-- Application architecture, middleware, and early cloud-native initiatives.
-- Supporting enterprise customers on their journey to containers and Kubernetes.
-
-**Highlights:**
-- Led solution designs for complex application platforms, integrating Red Hat middleware, automation, and modernization patterns.
-- Actively mentored developers and architects, raising the technical maturity of delivery teams.
-- Increased presales success rate by improving the quality of solution architectures and aligning them more closely with customer needs.
-- Consistently delivered projects with **NPS scores of 9–10**, contributing to strong long-term customer relationships.
+- Java Enterprise Edition analyst and developer.
 
 ---
 
-## 2019–2022 — Cloud Native & OpenShift Specialist
+## 2012–2013 — Associate Consultant (Red Hat, first stage)
 
-**Role:** Senior Architect / Specialist in OpenShift & Cloud Native (within Red Hat)  
-**Region:** LATAM  
+**Role:** Associate Consultant — Red Hat
+**Period:** February 2012 – March 2013
 
-**Key Focus:**
-- Kubernetes and OpenShift adoption.
-- Cloud-native architectures and CI/CD practices.
-- Early Internal Developer Platform (IDP) patterns.
-
-**Highlights:**
-- Designed and implemented Kubernetes/OpenShift-based platforms for enterprise customers.
-- Helped teams move from traditional release processes to GitOps and automated pipelines.
-- Introduced best practices for resilience, scalability, and observability in distributed systems.
-- Acted as a bridge between business needs and technical implementation in architecture discussions.
+- Reference architectures, proofs of concept, and designs.
+- Performance enhancements, documentation, product patches, and other delivery artifacts.
 
 ---
 
-## 2022–2023 — Associate Principal Architect
+## 2013–2014 — Development Analyst
 
-**Role:** Associate Principal Architect — Red Hat  
-**Region:** LATAM / Strategic Accounts  
+**Company:** Morpho — Chile
+**Period:** March 2013 – October 2014
 
-**Key Focus:**
-- Strategic accounts and large multi-project initiatives.
-- Enterprise architecture and platform strategy.
-- Developer productivity at scale.
-
-**Impacts:**
-- Supported strategic accounts with end-to-end architecture guidance, ensuring coherence across multiple projects and initiatives.
-- Helped improve presales success rate at the strategic level by aligning proposals, architectural visions, and delivery capabilities.
-- Maintained **NPS 9–10** as a **standard of excellence**, not an exception, for key engagements.
-- Started forming a **council of experts** across teams to provide an integrated view of the IT landscape, avoiding fragmented management and siloed initiatives.
-- Contributed to the evolution of services and practices to match new enterprise needs, especially around platform engineering and developer experience.
+- Evolutionary software improvements, fixes, and impact assessment for new requirements.
 
 ---
 
-## 2023–Present — Associate Principal Architect
+## 2014–2021 — Senior Consultant (Red Hat, second stage begins)
+
+**Role:** Senior Consultant — Red Hat
+**Period:** November 2014 – August 2021
+
+- Grew the Red Hat hybrid cloud business with OpenShift Container Platform, application runtimes, and automation.
+- Worked closely with strategic clients to design middleware solutions as a trusted advisor for their business goals.
+- Acted as the communication channel between product teams, product engineering, support, professional services, and sales.
+- Delivered architecture definitions, component and service integration, proofs of concept, technical validations, workshops, and middleware platform installation and configuration.
+
+---
+
+## 2021–2022 — Application Development and Practices Architect
+
+**Role:** Application Development and Practices Architect — Red Hat
+**Period:** September 2021 – August 2022
+
+- Designed and implemented modern container platforms.
+- Helped customers improve their software delivery workflows.
+- Recommended cloud-native application development practices using Linux containers, Kubernetes, Ansible Automation Platform, RHEL CoreOS, and OpenShift.
+
+---
+
+## 2022–2024 — Senior Architect, App, Dev & Practices
+
+**Role:** Senior Architect – App, Dev & Practices — Red Hat
+**Period:** August 2022 – October 2024
+
+- Led digital transformation initiatives and cultural change within customer organizations.
+- Covered application architecture, microservices, APIs and integration, containers and Kubernetes, CI/CD, and DevOps practices across AWS, Azure, and GCP environments.
+- Focused on collaboration, mentoring, and stakeholder engagement.
+
+---
+
+## 2024–2026 — Associate Principal Architect
 
 **Role:** Associate Principal Architect — Red Hat
-**Region:** LATAM with global collaboration  
+**Period:** October 2024 – September 2026
 
-**Key Focus:**
-- Cloud Native & Platform Engineering.
-- Internal Developer Platforms (IDP).
-- AI-augmented development and delivery acceleration.
-- Continuous improvement of architecture and delivery practices.
+- Defined and evolved technology strategy aligned with business priorities, operational excellence, and long-term competitiveness.
+- Led hybrid and multi-cloud strategy, architecture direction, and modernization initiatives.
+- Translated business metrics, KPIs, and OKRs into actionable technology roadmaps.
+- Advised leadership on IT strategy, capability development, and adoption of emerging technologies.
+- Drove process maturity, operating model evolution, and continuous improvement across IT and engineering practices.
+- Strengthened teams, talent, and engineering practices, and promoted cost-aware, sustainable IT evolution.
 
-**Impacts:**
-- Led cloud-native and platform engineering initiatives that improved developer autonomy, reliability, and time-to-value.
-- Established AI-augmented development workflows using tools like ChatGPT Codex to accelerate design, coding, and documentation.
-- Delivered production-ready MVPs in as little as **2 weeks**, demonstrating the power of combining AI, automation, and cloud-native platforms.
-- Continued to raise the bar on quality and reliability, keeping **NPS at 9–10** as a baseline for excellence.
-- Strengthened the **council of experts** model to provide integrated oversight across key IT initiatives, connecting sub-goals with enterprise value.
+---
+
+## 2026–Present — Senior Architect, Global Services
+
+**Role:** Senior Architect – Global Services — Red Hat
+**Period:** September 2026 – Present
+
+- Technical strategy and design: resolve non-routine architectural challenges with independent judgment.
+- Customer discovery and presales: drive technical discovery and articulate the value of consulting and technical services.
+- Execution and delivery: scope complex deliverables, direct technical workstreams, and build durable client relationships.
+- Leadership and mentorship: lead engagement teams and mentor junior architects.
+- Innovation: drive internal initiatives that improve efficiency and feed customer insights back into products and services.
 
 ---
 
@@ -104,7 +115,7 @@ Universidad Técnica Federico Santa María (Chile)
 
 **Roles:**
 - **CNCF Ambassador (since 2024)**
-- **Platform Engineering Ambassador (since 2024)**  
+- **Platform Engineering Ambassador (since 2024)**
 
 **Key Focus:**
 - Community leadership in Cloud Native and Platform Engineering.
@@ -117,6 +128,20 @@ Universidad Técnica Federico Santa María (Chile)
 
 ---
 
+## Certifications & Recognition
+
+**Certifications**
+- The Open Group Certified: TOGAF® 9
+- COBIT® 5 Foundation
+- DevOps Fundamentals
+
+**Recognition**
+- Red Hat Multiplier
+- Red Hat Top Gun
+- Red Hat Giveback Program Blue Star (2022)
+
+---
+
 ## Ongoing — Community, Open Source & Personal Projects
 
 - Founder of **Open Source Santiago**.
@@ -124,6 +149,7 @@ Universidad Técnica Federico Santa María (Chile)
 - Creator and maintainer of open projects such as:
   - **EventFlow** (cloud-native event management platform, AI-augmented delivery).
   - **arkit8s** (living architecture as code for Kubernetes/OpenShift).
+  - **PulseState** (availability reporting and visualization on OpenShift).
   - **Wise Tech** (approach and framework for resilient software and organizational knowledge).
 - Continual focus on:
   - Empowering developers and practitioners.

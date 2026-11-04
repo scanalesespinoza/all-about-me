@@ -1,12 +1,12 @@
 # Full Bio — Sergio Sebastián Canales Espinoza
 
-Sergio Sebastián Canales Espinoza is an Associate Principal Architect at Red Hat with over 11 years of experience leading architecture and continuous improvement initiatives across Latin America. He frames constant technological change as a strategic advantage, keeps technical debt deliberate, and aligns long-term evolution with business value.
+Sergio Sebastián Canales Espinoza is a Senior Architect – Global Services at Red Hat, where he has worked for more than 12 years across two stages, leading architecture and continuous improvement initiatives across Latin America. He frames constant technological change as a strategic advantage, keeps technical debt deliberate, and aligns long-term evolution with business value.
 
 His work centers on designing scalable, human-centered architectures that empower developers and keep organizations progressing steadily. Sergio believes that real progress comes from continuous improvement—not from forced shifts—and that people growth is what ultimately drives the evolution of systems, platforms, and enterprises.
 
 Community and people growth are his next defining axis. Recognized globally since 2024 as both a CNCF Ambassador and Platform Engineering Ambassador, he is the founder of Open Source Santiago, organizer of DevOpsDays Santiago, a frequent speaker, and a mentor to developers across the region. He relies on these networks to sustain progress and elevate LATAM’s role in the global open-source ecosystem.
 
-His public home for these efforts is scanales.com, where he connects with technology enthusiasts through ideas and stories. He shares ideas and stories for technology enthusiasts through talks, blog posts, and community events, reflecting his role as a speaker and organizer across Open Source Santiago, Cloud Native Santiago, DevOpsDays Santiago, and Platform Engineering Community Day.
+His public home for these efforts is scanales.com, where he shares ideas and stories with technology enthusiasts through talks, blog posts, and community events, reflecting his role as a speaker and organizer across Open Source Santiago, Cloud Native Santiago, DevOpsDays Santiago, and Platform Engineering Community Day.
 
 Sergio is also known for pioneering AI-augmented development within enterprise environments. He has delivered production-ready MVPs in just two weeks using agentic workflows and tools like ChatGPT Codex, Quarkus, and Kubernetes—demonstrating how AI and early technology adoption can accelerate value while preserving excellence and reliability.
 

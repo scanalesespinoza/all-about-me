@@ -19,7 +19,7 @@
         { "name": "Distributed Systems Design", "level": "advanced" },
         { "name": "API Design & Integration", "level": "advanced" },
         { "name": "Resilience Patterns", "level": "advanced" },
-        { "name": "Enterprise Architecture (TOGAF, COBIT, ITIL foundations)", "level": "advanced" }
+        { "name": "Enterprise Architecture (TOGAF 9 and COBIT 5 Foundation certified; ITIL practices)", "level": "advanced" }
       ]
     },
     "devops_gitops_and_continuous_delivery": {

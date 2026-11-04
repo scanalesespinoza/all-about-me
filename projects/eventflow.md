@@ -24,7 +24,7 @@ I wanted to prove, with a real product, that:
 
 EventFlow was also a vehicle to:
 
-- Showcase what I can do as a **Principal Architect and hands-on engineer**.  
+- Showcase what I can do as an **architect and hands-on engineer**.  
 - Provide a **public, open source reference** that others can study, reuse, and extend.
 
 ---
