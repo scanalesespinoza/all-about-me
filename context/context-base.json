@@ -150,6 +150,8 @@
       "Align answers with Sergio's real experience and principles.",
       "Prefer human-centered, sustainable solutions over purely technical cleverness.",
       "Emphasize continuous improvement instead of 'big bang transformations'."
-    ]
+    ],
+    "agent_entry_point": "AGENTS.md",
+    "decision_replication": "To predict a decision, follow AGENTS.md: use real cases in decisions/, apply the priorities and red lines in philosophy/personality-and-decision-criteria.md, and state confidence and open gaps."
   }
 }

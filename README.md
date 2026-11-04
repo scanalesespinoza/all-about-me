@@ -6,6 +6,7 @@ Its purpose is to provide **high-quality context** for:
 - Writing talks, articles, and proposals
 - Preparing CVs, role descriptions, and applications
 - Grounding prompts for LLMs so they can generate work aligned with my experience, values, and style
+- Letting an agent predict the decisions I would make, with explicit reasons and confidence
 - Documenting my evolution over time as an architect and technology leader, CNCF Ambassador, and Platform Engineering Ambassador
 
 ---
@@ -62,6 +63,7 @@ skills/         # Technical and non-technical skills, matrices, and domains
 context/        # JSON / structured context for LLM grounding
 community/      # Planned: open source, meetups, conferences, initiatives
 philosophy/     # Personality, decision criteria, principles, way of working and thinking
+decisions/      # Real past decisions with my reasons, and the evaluation protocol
 interests/      # Planned: broader interests such as AI, fitness, storytelling, communities
 speaking/       # Planned: talks, topics, conferences, abstracts
 ```
@@ -76,16 +78,21 @@ Available today:
 - Career timeline, Red Hat roles, and community leadership: `career/`
 - Project deep dives: `projects/`
 - Technical and leadership skills plus a machine-readable matrix: `skills/`
-- Personality and decision criteria: `philosophy/`
+- Personality, decision criteria, and stated priorities: `philosophy/` (full priority ranking and red lines still pending)
+- Decision log and evaluation protocol: `decisions/` (no cases recorded yet)
+- Agent entry point: `AGENTS.md`
 - Structured LLM context: `context/context-base.json`
 
 Planned next:
 
+- Real decision cases and a full priority ranking with red lines.
 - Community, interests, and speaking sections.
 
 ---
 
 ## 🤖 Using This Repo as LLM Context
+
+Agents should start with [`AGENTS.md`](AGENTS.md), which defines the read order and the procedure for predicting a decision I would make.
 
 Tools, prompts, and assistants can:
 

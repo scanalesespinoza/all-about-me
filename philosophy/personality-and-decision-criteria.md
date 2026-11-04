@@ -49,6 +49,25 @@ Given a choice, these are the criteria I would most likely apply.
 
 ---
 
+## Priorities and Red Lines
+
+Criteria rarely appear alone. This section defines which one wins when they collide.
+
+### Stated priorities
+
+- **Creativity over quality:** when strict quality would stop creation, creation wins; quality stays at "reliable and sustainable".
+- **New over predictable:** when one option is new and unresolved and the other is clear and predictable, the new option wins.
+- **Adversity is not a cost:** difficulty and adversity I face do not count against an option. Whether this extends to risks carried by the team or customers is not defined; see red lines.
+
+### Not yet defined
+
+- **Full ranking** among creating or inventing, winning, self-improvement, quality, people and team, economic stability, and personal or family life.
+- **Red lines:** what I would not do even if it guaranteed winning.
+
+When a decision depends on an undefined priority or red line, an agent must say so, give the most likely choice with low confidence, and name the missing information. It must not fill the gap with an assumed value.
+
+---
+
 ## Consistency With My Career
 
 These traits are consistent with observable patterns in my [career timeline](../career/timeline.md). The timeline records what happened; the connections below are an interpretation, not a stated cause for each move.
@@ -68,11 +87,14 @@ Some traits pull against other parts of this profile. Making them explicit helps
 - **Competition and collaboration:** I describe myself as collaborative and non-dogmatic, and I also like to compete and accept that someone loses. I collaborate to build; I compete to win.
 - **Quality and creativity:** I am demanding with quality, but when quality and creativity collide, I protect the space to create.
 - **Community and solitude:** I build communities and depend on others, while often feeling alone and doing my best thinking on my own.
+- **Competition and credible commitments:** I like to win, and my presales and leadership work is described in terms of realistic, feasible proposals and delivery that matches what was promised ([Leadership skills](../skills/leadership.md)). Which one wins when they collide depends on red lines that are not yet defined.
 - **Maintenance phases:** once something is solved and stable, my interest drops. Long-running maintenance, standardization, and operational routines are where I need deliberate support or a handoff.
 
 ---
 
 ## Guidance for LLMs
+
+To predict a decision I would make, follow [AGENTS.md](../AGENTS.md).
 
 When advising me or generating content on my behalf:
 
