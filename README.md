@@ -54,50 +54,43 @@ This repository is designed to be:
 
 ## 📂 Directory Structure
 
-Planned structure (to be developed incrementally):
-
-```bash
+```text
 biography/      # Narratives about my life, identity and professional evolution
 career/         # Roles, responsibilities, milestones, career timeline
-projects/       # Deep dives on key projects (EventFlow, arkit8s, Wise Tech, etc.)
-community/      # Open source, meetups, conferences, initiatives
+projects/       # Deep dives on key projects (EventFlow, arkit8s, PulseState, Wise Tech)
 skills/         # Technical and non-technical skills, matrices, and domains
-philosophy/     # Principles, leadership style, way of working and thinking
-interests/      # Broader interests: AI, fitness, storytelling, communities
-speaking/       # Talks, topics, conferences, abstracts
 context/        # JSON / structured context for LLM grounding
-
-🧠 Current Status (Iteration 0)
-
-This is Iteration 0 of the repository:
-
-✅ Basic structure created
-
-✅ Initial README.md with high-level overview
-
-✅ Initial context file: context/context-base.json
-
-Next iterations will progressively add:
-
-A detailed biography and career timeline
-
-Project breakdowns (EventFlow, arkit8s, PulseState, Wise Tech…)
-
-My working principles, leadership philosophy, and architectural mindset
-
-A structured skills matrix and reusable context for LLM prompts
-
-🤖 Using This Repo as LLM Context
-
-Future tools, prompts, and assistants can:
-
-Load context/context-base.json as a starting profile for “Sergio-aligned” tasks
-
-Use the /biography, /career, and /projects folders to enrich responses
-
-Respect my values, tone, and priorities when generating content
-
-This repo is, in short, “all about me”, as a stable and evolving foundation for everything I build, share, and lead.
-
+community/      # Planned: open source, meetups, conferences, initiatives
+philosophy/     # Planned: principles, leadership style, way of working and thinking
+interests/      # Planned: broader interests such as AI, fitness, storytelling, communities
+speaking/       # Planned: talks, topics, conferences, abstracts
+```
 
 ---
+
+## 🧠 Current Status
+
+Available today:
+
+- Biography and identity: `biography/`
+- Career timeline, Red Hat roles, and community leadership: `career/`
+- Project deep dives: `projects/`
+- Technical and leadership skills plus a machine-readable matrix: `skills/`
+- Structured LLM context: `context/context-base.json`
+
+Planned next:
+
+- Community, philosophy, interests, and speaking sections.
+
+---
+
+## 🤖 Using This Repo as LLM Context
+
+Tools, prompts, and assistants can:
+
+- Load `context/context-base.json` as a starting profile for "Sergio-aligned" tasks.
+- Use `biography/`, `career/`, and `projects/` to enrich responses.
+- Treat `career/timeline.md` as the canonical source for roles, titles, and dates.
+- Respect my values, tone, and priorities when generating content.
+
+This repo is, in short, "all about me": a stable and evolving foundation for everything I build, share, and lead.
