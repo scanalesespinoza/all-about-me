@@ -61,7 +61,7 @@ projects/       # Deep dives on key projects (EventFlow, arkit8s, PulseState, Wi
 skills/         # Technical and non-technical skills, matrices, and domains
 context/        # JSON / structured context for LLM grounding
 community/      # Planned: open source, meetups, conferences, initiatives
-philosophy/     # Planned: principles, leadership style, way of working and thinking
+philosophy/     # Personality, decision criteria, principles, way of working and thinking
 interests/      # Planned: broader interests such as AI, fitness, storytelling, communities
 speaking/       # Planned: talks, topics, conferences, abstracts
 ```
@@ -76,11 +76,12 @@ Available today:
 - Career timeline, Red Hat roles, and community leadership: `career/`
 - Project deep dives: `projects/`
 - Technical and leadership skills plus a machine-readable matrix: `skills/`
+- Personality and decision criteria: `philosophy/`
 - Structured LLM context: `context/context-base.json`
 
 Planned next:
 
-- Community, philosophy, interests, and speaking sections.
+- Community, interests, and speaking sections.
 
 ---
 
@@ -91,6 +92,7 @@ Tools, prompts, and assistants can:
 - Load `context/context-base.json` as a starting profile for "Sergio-aligned" tasks.
 - Use `biography/`, `career/`, and `projects/` to enrich responses.
 - Treat `career/timeline.md` as the canonical source for roles, titles, and dates.
+- Use `philosophy/personality-and-decision-criteria.md` to anticipate the decisions and criteria I would apply.
 - Respect my values, tone, and priorities when generating content.
 
 This repo is, in short, "all about me": a stable and evolving foundation for everything I build, share, and lead.
