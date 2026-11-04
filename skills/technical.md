@@ -33,14 +33,14 @@ This document summarizes my main technical skills, grouped by domain and with a 
 - Microservices & Distributed Systems
 - API Design & Integration
 - Resilient & Observability-Ready Systems
-- Enterprise Architecture (TOGAF, COBIT, ITIL)
+- Enterprise Architecture (TOGAF 9 and COBIT 5 Foundation certified; ITIL practices)
 
 **Key Skills**
 - Design of microservices architectures, with clear domain boundaries and integration patterns.
 - API-centric architectures: REST, event-driven messaging, and service-to-service communication.
 - Applying resilience patterns (timeouts, retries, circuit breakers, bulkheads).
 - Ensuring observability through logs, metrics, traces, and structured events.
-- Using TOGAF, COBIT, and ITIL foundations to align architecture with governance and operations.
+- Using TOGAF, COBIT, and ITIL practices to align architecture with governance and operations.
 
 **How I Use This**
 - Translate business requirements into coherent, maintainable system architectures.

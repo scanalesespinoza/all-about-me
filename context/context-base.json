@@ -4,21 +4,31 @@
     "full_name": "Sergio Sebastián Canales Espinoza",
     "preferred_name": "Sergio",
     "location": "Santiago, Chile",
-    "current_role": "Associate Principal Architect at Red Hat.",
+    "current_role": "Senior Architect – Global Services at Red Hat",
+    "red_hat_stages": [
+      {
+        "start": "2012-02",
+        "end": "2013-03"
+      },
+      {
+        "start": "2014-11",
+        "end": null
+      }
+    ],
     "ambassador_roles": [
       "CNCF Ambassador (since 2024)",
       "Platform Engineering Ambassador (since 2024)"
     ],
     "languages": {
       "spanish": "native",
-      "english": "fluent",
-      "portuguese": "intermediate",
-      "japanese": "basic"
+      "english": "full professional",
+      "portuguese": "limited working",
+      "japanese": "elementary"
     }
   },
   "professional_identity": {
     "headline": [
-      "Principal Architect",
+      "Senior Architect – Global Services",
       "Cloud Native & Platform Engineering Architect",
       "Enterprise Architect",
       "Community Builder and Speaker"
@@ -46,7 +56,7 @@
     }
   },
   "experience_summary": {
-    "years_experience": "over 11 years at Red Hat",
+    "years_experience": "more than 12 years at Red Hat across two stages",
     "domains": [
       "Architecture leadership and continuous improvement",
       "Community leadership, mentoring, and developer advocacy",
@@ -60,6 +70,11 @@
       "Led modernization and platform initiatives for enterprise and financial services clients.",
       "Consistently achieved NPS 9–10 in delivery engagements.",
       "Organized and contributed to DevOpsDays Santiago and Open Source Santiago."
+    ],
+    "certifications": [
+      "The Open Group Certified: TOGAF 9",
+      "COBIT 5 Foundation",
+      "DevOps Fundamentals"
     ]
   },
   "skills_high_level": {

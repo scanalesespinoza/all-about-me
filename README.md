@@ -6,15 +6,15 @@ Its purpose is to provide **high-quality context** for:
 - Writing talks, articles, and proposals
 - Preparing CVs, role descriptions, and applications
 - Grounding prompts for LLMs so they can generate work aligned with my experience, values, and style
-- Documenting my evolution over time as a Principal Architect and technology leader operating at organizational scope, aligning architecture, delivery, and technology decisions at organization level; CNCF Ambassador; and Platform Engineering Ambassador
+- Documenting my evolution over time as an architect and technology leader, CNCF Ambassador, and Platform Engineering Ambassador
 
 ---
 
 ## 👤 Who I Am (High-Level)
 
-I am **Sergio Sebastián Canales Espinoza**, an **Associate Principal Architect at Red Hat.** I am a technology leader with over 11 years at **Red Hat**, operating at organizational scope and aligning architecture, delivery, and technology decisions with organizational priorities. My first lens is **architecture and continuous improvement**—turning constant technological change into strategic advantage, keeping technical debt deliberate, and guiding organizations toward long-term evolution.
+I am **Sergio Sebastián Canales Espinoza**, a **Senior Architect – Global Services at Red Hat** and technology leader with more than 12 years at **Red Hat** across two stages. I align architecture, delivery, and technology decisions with organizational priorities. My first lens is **architecture and continuous improvement**—turning constant technological change into strategic advantage, keeping technical debt deliberate, and guiding organizations toward long-term evolution.
 
-scanales.com is my public home for this work: a space to connect with technology enthusiasts through ideas and stories. I share ideas and stories for technology enthusiasts through talks, blog posts, and community events, extending the same mindset I apply to architecture and leadership.
+scanales.com is my public home for this work, where I share ideas and stories with technology enthusiasts through talks, blog posts, and community events, extending the same mindset I apply to architecture and leadership.
 
 Community comes next: I rely on developers, mentoring, and open source networks as the core fabric that sustains progress. As a **CNCF Ambassador** and **Platform Engineering Ambassador** since **2024**, I help communities grow across Latin America and beyond through organizing, speaking, and hands-on support.
 
