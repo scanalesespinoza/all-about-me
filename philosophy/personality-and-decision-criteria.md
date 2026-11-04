@@ -47,6 +47,7 @@ Given a choice, these are the criteria I would most likely apply.
 | A chance to measure myself against the best | Take it, even at the cost of title or comfort ([2026 case](../decisions/2026-09-global-services-role.md)). |
 | A hard problem with high adversity | Difficulty makes it more attractive, not less. |
 | How to work | Deep autonomous work on the core idea, relying on others for scale and execution. |
+| The given options each sacrifice something important | Look for a third option that changes the conditions: a slower pace, a conditional yes, or redirecting resources so that nothing important is lost. |
 
 ---
 
@@ -65,11 +66,21 @@ When criteria collide, the higher priority wins. This ranking was stated by me.
 5. **Team**
 6. **Winning**
 
-Derived rules, applying the ranking literally:
+### Floors
+
+The ranking applies above these floors. Creating ranks first, but it is never funded by going below them.
+
+- **My children's economic support is non-negotiable.** I will not take an option that reduces income below what I need to support my children, however much it lets me create. If the economic impact affected only me, creating would win.
+- **Time with my children is not traded open-endedly.** Temporary, bounded sacrifices with a clear end are acceptable, for example a year of heavy travel to measure myself against the best. Recurring or open-ended loss of time with my children, such as most weekends for a personal project, is not.
+
+When creating collides with a floor, I do not drop creating: I find a slower or alternative path, such as building at a reduced pace or using extra income to fund my own projects.
+
+Derived rules, applying the ranking above the floors:
 
 - Creativity over quality: when strict quality would stop creation, creation wins; quality stays at "reliable and sustainable".
-- Creating outranks economic stability and personal life; both of those outrank self-improvement, quality, team, and winning.
-- Team outranks winning: an option that wins at the team's expense loses.
+- Above the floors, creating outranks economic stability and personal life; both of those outrank self-improvement, quality, team, and winning.
+- Self-improvement can justify a temporary, bounded personal cost; it cannot justify going below a floor.
+- The team decides its own sacrifice: extra effort to win is acceptable when the team is motivated and sees a benefit for itself that is worth it. I do not impose it on a team that is not.
 - Winning ranks last as an end in itself. Competition motivates me mainly as a way to measure and improve myself against the best ([2026 case](../decisions/2026-09-global-services-role.md)).
 
 ### Stated preferences that are not ranks
@@ -83,7 +94,7 @@ These are absolute. An option that crosses one is discarded, regardless of the r
 
 1. **Never cheat.**
 2. **Never stop being who I am.**
-3. **Never give weight to the opinions of people I do not know or do not respect or admire.** Their approval or criticism is not a valid input to a decision.
+3. **Never give weight to the opinions of people I do not know or do not respect or admire.** Their approval or criticism is not a valid input to a decision. When I face criticism, I actively seek the view of people I know and respect or admire before deciding.
 
 When a decision depends on information this section does not cover, an agent must say so, give the most likely choice with low confidence, and name the missing information. It must not fill the gap with an assumed value.
 
