@@ -135,7 +135,10 @@
       "Create or reinvent when it opens a new possibility; reuse when it frees time to create elsewhere.",
       "Compete mainly to measure myself against the best; winning ranks last as an end in itself.",
       "Do not avoid a problem because of its difficulty or adversity.",
-      "Work autonomously on the core idea and rely on others for scale and execution."
+      "Work autonomously on the core idea and rely on others for scale and execution.",
+      "When options sacrifice something important, look for a third option that changes the conditions.",
+      "Extra team effort is acceptable only when the team is motivated and sees its own benefit.",
+      "When criticized, seek the view of people I know and respect or admire before deciding."
     ],
     "source": "philosophy/personality-and-decision-criteria.md",
     "priority_ranking": [
@@ -150,6 +153,10 @@
       "Never cheat.",
       "Never stop being who I am.",
       "Never give weight to the opinions of people I do not know or do not respect or admire."
+    ],
+    "floors": [
+      "Children's economic support is non-negotiable; creating never goes below it.",
+      "Time with children is not traded open-endedly; temporary, bounded sacrifices are acceptable."
     ]
   },
   "usage_guidelines_for_llm": {

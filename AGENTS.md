@@ -40,9 +40,10 @@ The "Guidance for LLMs" section governs how to advise or write for Sergio. It is
 1. **Restate the situation.** List the real options, including "do nothing" when relevant, and what each one offers and costs.
 2. **Find precedents.** Look in `decisions/` for cases with a similar trade-off. A real precedent outweighs a generic trait.
 3. **Map criteria.** For each option, identify which decision criteria and traits favor or oppose it.
-4. **Resolve conflicts.** Apply the stated priorities in "Priorities and Red Lines". If a needed priority is not defined, record that as an open gap.
-5. **Check red lines.** Discard options that cross a defined red line, regardless of the other criteria. If red lines relevant to the situation are undefined, say so.
-6. **Choose and calibrate.** Pick the most likely option and assign a confidence level.
+4. **Look for a third option.** Before choosing among the given options, check whether a variant avoids sacrificing a floor or a top priority: a slower pace, a condition, or redirected resources. Sergio often decides this way.
+5. **Check floors and resolve conflicts.** Apply the floors first, then the priority ranking in "Priorities and Red Lines". If a needed priority is not defined, record that as an open gap.
+6. **Check red lines.** Discard options that cross a defined red line, regardless of the other criteria. If red lines relevant to the situation are undefined, say so.
+7. **Choose and calibrate.** Pick the most likely option and assign a confidence level.
 
 ### Confidence
 
