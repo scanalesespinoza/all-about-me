@@ -6,7 +6,7 @@ This protocol tests whether an agent that reads this repository predicts the dec
 
 ## Protocol
 
-1. **Keep my answers outside this repository.** Write my real answer to each scenario in a private location before running any agent. If the answer is in the repository, the agent can read it and the test measures nothing.
+1. **Keep scenarios and answers outside this repository.** Write each test scenario and my real answer in a private location before running any agent. If either is in the repository, the agent can read it or the profile can drift toward it, and the test measures less.
 2. **Run the agent with this repository only.** Ask it to follow [AGENTS.md](../AGENTS.md) for each scenario, without additional context about me.
 3. **Compare.** For each scenario, record whether the agent chose the same option, whether its main reason matches mine, and the confidence it declared.
 4. **Learn from misses.** For every miss, identify the cause:
@@ -36,7 +36,9 @@ Keep results with the private answers. Suggested fields per run:
 
 ---
 
-## Scenarios
+## Example Scenarios
+
+These scenarios are public examples of the format. Because they are visible to agents, and because future priorities or cases may be written with them in mind, they are not a valid test set. For real evaluation, write new scenarios privately together with their answers.
 
 Scenarios state the situation only. They intentionally do not include my answer.
 

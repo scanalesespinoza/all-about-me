@@ -17,7 +17,21 @@ This repository should let an agent attempt to replicate a decision Sergio would
 3. [`decisions/`](decisions/README.md): real past decisions with his own reasons.
 4. [`career/timeline.md`](career/timeline.md): canonical roles, titles, and dates.
 5. [`biography/identity.md`](biography/identity.md): outward style and values.
-6. `projects/`, `skills/`, and `career/` files only when the situation needs them.
+6. [`skills/leadership.md`](skills/leadership.md): how he approaches presales, commitments, teams, and stakeholders. Read it for any decision involving customers, bids, or teams.
+7. `projects/`, `skills/technical.md`, and other `career/` files when the situation needs them.
+
+Before predicting, search the whole repository for statements about the specific trade-off. Relevant evidence can live outside the files above.
+
+### Source types
+
+| Source | Type | Weight |
+|---|---|---|
+| `decisions/` cases and the "Who I Am" and "Priorities and Red Lines" sections | Stated by Sergio | Highest |
+| `career/timeline.md` | Fact | Authoritative for titles and dates; says nothing about motives |
+| Sections labeled as interpretation | Interpretation | Supporting only |
+| Bios, `skills/`, career impact statements, `context-base.json` highlights | Professional self-presentation | Valid signal of values, written for an external audience |
+
+The "Guidance for LLMs" section governs how to advise or write for Sergio. It is not evidence of what he would choose.
 
 ---
 
@@ -35,6 +49,8 @@ This repository should let an agent attempt to replicate a decision Sergio would
 - **High:** a real precedent with the same trade-off, or a stated priority that settles the conflict.
 - **Medium:** several criteria agree, but there is no precedent.
 - **Low:** the decision depends on an undefined priority or red line, or criteria conflict without a stated resolution.
+
+When a decision has several decisive trade-offs, the overall confidence is the lowest level among them. Report the level of each trade-off under "Open gaps".
 
 ---
 

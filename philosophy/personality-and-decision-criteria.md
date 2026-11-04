@@ -57,7 +57,7 @@ Criteria rarely appear alone. This section defines which one wins when they coll
 
 - **Creativity over quality:** when strict quality would stop creation, creation wins; quality stays at "reliable and sustainable".
 - **New over predictable:** when one option is new and unresolved and the other is clear and predictable, the new option wins.
-- **Adversity is not a cost:** difficulty and adversity do not count against an option.
+- **Adversity is not a cost:** difficulty and adversity I face do not count against an option. Whether this extends to risks carried by the team or customers is not defined; see red lines.
 
 ### Not yet defined
 
@@ -87,6 +87,7 @@ Some traits pull against other parts of this profile. Making them explicit helps
 - **Competition and collaboration:** I describe myself as collaborative and non-dogmatic, and I also like to compete and accept that someone loses. I collaborate to build; I compete to win.
 - **Quality and creativity:** I am demanding with quality, but when quality and creativity collide, I protect the space to create.
 - **Community and solitude:** I build communities and depend on others, while often feeling alone and doing my best thinking on my own.
+- **Competition and credible commitments:** I like to win, and my presales and leadership work is described in terms of realistic, feasible proposals and delivery that matches what was promised ([Leadership skills](../skills/leadership.md)). Which one wins when they collide depends on red lines that are not yet defined.
 - **Maintenance phases:** once something is solved and stable, my interest drops. Long-running maintenance, standardization, and operational routines are where I need deliberate support or a handoff.
 
 ---

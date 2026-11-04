@@ -78,7 +78,7 @@ Available today:
 - Career timeline, Red Hat roles, and community leadership: `career/`
 - Project deep dives: `projects/`
 - Technical and leadership skills plus a machine-readable matrix: `skills/`
-- Personality, decision criteria, priorities, and red lines: `philosophy/`
+- Personality, decision criteria, and stated priorities: `philosophy/` (full priority ranking and red lines still pending)
 - Decision log and evaluation protocol: `decisions/` (no cases recorded yet)
 - Agent entry point: `AGENTS.md`
 - Structured LLM context: `context/context-base.json`
